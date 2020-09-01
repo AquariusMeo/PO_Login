@@ -1,0 +1,22 @@
+test_login1:
+  testcases1:
+    username: "13333333333"
+    password: "123000"
+    toast: "账号不存在"
+  testcases2:
+    username: "13827817893"
+    password: "123111"
+    toast: "账号不存在"
+  testcases3:
+    username: "18999999999"
+    password: "123222"
+    toast: "账号不存在"
+test_login2:
+  testcases1:
+    username: "222"
+    password: "123000"
+    toast: "账号不存在"
+  testcases2:
+    username: "333"
+    password: "123111"
+    toast: "账号不存在"
